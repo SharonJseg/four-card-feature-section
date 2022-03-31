@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/four-card-feature-section/static/css/main.af08d99a.css",
+    "main.js": "/four-card-feature-section/static/js/main.80afd213.js",
+    "static/media/Poppins-Regular.woff": "/four-card-feature-section/static/media/Poppins-Regular.ab6122bd28174ddf9eeb.woff",
+    "static/media/Poppins-ExtraLight.woff": "/four-card-feature-section/static/media/Poppins-ExtraLight.a9f2ad5e27c007e66bcf.woff",
+    "static/media/Poppins-SemiBold.woff": "/four-card-feature-section/static/media/Poppins-SemiBold.ee8ae013a422a80622c6.woff",
+    "static/media/Poppins-Regular.woff2": "/four-card-feature-section/static/media/Poppins-Regular.9641d5d087bc9e626d4c.woff2",
+    "static/media/Poppins-SemiBold.woff2": "/four-card-feature-section/static/media/Poppins-SemiBold.b2be0bf638eacbb24415.woff2",
+    "static/media/Poppins-ExtraLight.woff2": "/four-card-feature-section/static/media/Poppins-ExtraLight.cb95ec88d8a8c1288060.woff2",
+    "index.html": "/four-card-feature-section/index.html",
+    "main.af08d99a.css.map": "/four-card-feature-section/static/css/main.af08d99a.css.map",
+    "main.80afd213.js.map": "/four-card-feature-section/static/js/main.80afd213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af08d99a.css",
+    "static/js/main.80afd213.js"
+  ]
+}
